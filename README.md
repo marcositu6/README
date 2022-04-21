@@ -43,4 +43,5 @@
 <a href="https://linkedin.com/in/marcositu6"><img src="https://img.shields.io/badge/-Marcos%20Iturriaga-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:marcositu6@gmail.com"><img src="https://img.shields.io/badge/-marcositu6@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.facebook.com/marcos.iturriaga.1"><img src="https://img.shields.io/badge/-Marcos%20Iturriaga-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://raw.githubusercontent.com/marcositu6/marcositu6/master/assets/Resume-Marcos-Iturriaga.pdf"><img src="https://img.shields.io/badge/-Resume-f27e18?style=flat&logo=file&logoColor=white"/></a>
 </p>
