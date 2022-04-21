@@ -1,4 +1,4 @@
-![Marcos Iturriaga Banner](https://raw.githubusercontent.com/marcositu6/marcositu6/master/assets/Backdrop-Marcos.jpg)
+![Marcos Iturriaga Banner](https://raw.githubusercontent.com/marcositu6/marcositu6/main/assets/Backdrop-Marcos.jpg)
 
 <h2>Hello! I'm Marcos</h2>
 
@@ -16,7 +16,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Mongoose](https://img.shields.io/badge/-mongodb-05122A?style=flat&logo=mongoose)&nbsp;
+![Mongoose](https://img.shields.io/badge/-mongoose-05122A?style=flat&logo=mongodb)&nbsp;
 ![Docker](https://img.shields.io/badge/-docker-05122A?style=flat&logo=docker)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
