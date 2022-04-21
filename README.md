@@ -16,7 +16,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Mongoose](https://img.shields.io/badge/-mongoose-05122A?style=flat&logo=mongoose)&nbsp;
+![Mongoose](https://img.shields.io/badge/-mongodb-05122A?style=flat&logo=mongoose)&nbsp;
 ![Docker](https://img.shields.io/badge/-docker-05122A?style=flat&logo=docker)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -40,7 +40,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/marcositu6"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:marcositu6@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.facebook.com/marcos.iturriaga.1"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://linkedin.com/in/marcositu6"><img src="https://img.shields.io/badge/-Marcos%20Iturriaga-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:marcositu6@gmail.com"><img src="https://img.shields.io/badge/-marcositu6@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.facebook.com/marcos.iturriaga.1"><img src="https://img.shields.io/badge/-Marcos%20Iturriaga-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
