@@ -1,4 +1,4 @@
-![Marcos Iturriaga Banner](https://raw.githubusercontent.com/marcositu6/marcositu6/main/assets/Backdrop-Marcos.jpg)
+![Marcos Iturriaga Banner](https://raw.githubusercontent.com/marcositu6/README/main/assets/Backdrop-Marcos.jpg)
 
 <h2>Hello! I'm Marcos</h2>
 
